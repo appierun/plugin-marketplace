@@ -2,8 +2,8 @@
   "version": 1,
   "plugins": {
     "appie": {
-      "sha": "d336e3be393c28566dbdc5aa59b450d71d1b2acb",
-      "version": "1.0.0",
+      "sha": "114f280dbc59ca36bf9ccc2d48e7727e71772556",
+      "version": "1.1.0",
       "components": {
         "mcpServers": [
           {
@@ -19,6 +19,14 @@
           {
             "name": "appie-chatbot",
             "description": "Create, train, and chat with project chatbots via Appie.run. Use when the user asks to create a chatbot, add knowledge…"
+          },
+          {
+            "name": "appie-linkedin-growth",
+            "description": "Track LinkedIn profiles and list leads via Appie.run. Use when the user asks to track or stop tracking a LinkedIn profi…"
+          },
+          {
+            "name": "appie-reddit-marketing",
+            "description": "Find Reddit threads that mention your keywords or competitors and draft replies via Appie.run. Use when the user asks t…"
           },
           {
             "name": "appie-url-shortener",
