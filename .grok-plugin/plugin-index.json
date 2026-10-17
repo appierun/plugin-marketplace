@@ -1,6 +1,32 @@
 {
   "version": 1,
   "plugins": {
+    "appie": {
+      "sha": "d336e3be393c28566dbdc5aa59b450d71d1b2acb",
+      "version": "1.0.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "appie",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "appie-article-writer",
+            "description": "Write short light articles or long deeply-researched articles with Appie.run Content Writer. Use when the user asks to…"
+          },
+          {
+            "name": "appie-chatbot",
+            "description": "Create, train, and chat with project chatbots via Appie.run. Use when the user asks to create a chatbot, add knowledge…"
+          },
+          {
+            "name": "appie-url-shortener",
+            "description": "Create and manage short links via Appie.run AI Marketing Stack. Use when the user asks to shorten a URL, create a short…"
+          }
+        ]
+      }
+    },
     "axiom": {
       "sha": "001b3a883fddd8170003aa12c236205fb9eecad6",
       "version": "1.1.2",
