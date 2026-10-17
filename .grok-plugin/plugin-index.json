@@ -2,7 +2,7 @@
   "version": 1,
   "plugins": {
     "appie": {
-      "sha": "114f280dbc59ca36bf9ccc2d48e7727e71772556",
+      "sha": "906374e88f676a33630debf04ed42b878b73de44",
       "version": "1.1.0",
       "components": {
         "mcpServers": [

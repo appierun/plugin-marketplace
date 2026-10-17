@@ -468,7 +468,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/appierun/appie-mcp.git",
-        "sha": "114f280dbc59ca36bf9ccc2d48e7727e71772556"
+        "sha": "906374e88f676a33630debf04ed42b878b73de44"
       },
       "homepage": "https://appie.run",
       "keywords": ["appie", "appie.run", "appie mcp", "appie article", "appie chatbot", "appie short link", "appie reddit", "appie linkedin"],
